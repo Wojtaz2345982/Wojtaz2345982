@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wojtek Błaszczyk</h1>
 <h3 align="center">A passionate young .NET backend developer from Poland.</h3>
 
-- 🌱 I’m currently learning **backend architecture, highly scalable application architecture, and database architecture.**
+- 🌱 I’m currently learning **backend architecture, highly scalable application architecture and database architecture.**
 
 - 📫 How to reach me **blaszczykwojciech54@gmail.com**
 
