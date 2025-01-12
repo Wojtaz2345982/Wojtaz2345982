@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wojtek Błaszczyk</h1>
-<h3 align="center">A passionate young Angular + .NET fullstack developer from Poland.</h3>
+<h3 align="center">A passionate .NET fullstack developer from Poland.</h3>
 
 - 🌱 I’m currently learning **backend architecture, highly scalable microservis architecture.**
 
