@@ -7,7 +7,6 @@
 
 - Most of my projects are private right now - I will publish them at some point!
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
